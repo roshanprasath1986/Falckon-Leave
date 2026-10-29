@@ -1,0 +1,6 @@
+{
+  "name": "Leave Balance Portal",
+  "description": "Leave Balance Portal with automated casual-first deduction, 12-month tracking, employee management, and archived employee controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
